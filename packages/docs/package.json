@@ -9,6 +9,9 @@
     "build": "storybook build"
   },
   "dependencies": {
+    "@kns-ui/react": "*",
+    "@kns-ui/tokens": "*",
+    "@kns-ui/eslint-config": "*",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
